@@ -116,3 +116,12 @@ main{
 .about-info{
     text-align: center;
 }
+
+#what-i-do-decription{
+    padding:30px 150px;
+}
+
+.skill-container{
+    display: flex;
+    justify-content: space-around;
+}
